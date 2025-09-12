@@ -1,0 +1,42 @@
+<html>
+<head>
+<title> Semester 1 </title>
+<body>
+<table border="1">
+<tr>
+<th colspan="6">Semester1</th>
+</tr>
+<tr>
+<th rowspan="2">Course code</th>
+<th rowspan="2">Course code</th>
+<th colspan ="4">HOURS/WEEK</th>
+</tr>
+<tr>
+<th>L</th>
+<th>T</th>
+<th>P</th>
+</tr>
+<tr>
+<td>20MCA101</td>
+<td>MFC</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>20MCA105</td>
+<td>ADS</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<td>20MCA101</td>
+<td>PROGRAMMING</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+</tr>
+</table>
+</body>
+</head>
+</html>
